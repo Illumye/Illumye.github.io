@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+
+  code{
+    font-family: Consolas, "Courier New";
+    background-color: #f1f1f1;
+    padding: 4px;
+    font-size: 105%;
+  }
+
+body{
+	background-color : rgb(17, 9, 26) ;
+	margin : 20px;
+  font-family: Comic Sans MS, Comic Sans, cursive
+}
+
+h1{
+	color : rgb(255, 255, 255);
+	font-weight: bold ;
+	text-align: center ;
+	font-size : 500% ;
+}
+
+h4{
+	color : rgb(80, 0, 0);
+	font-weight: bold ;
+	text-align: center ;
+	font-size : 500% ;}
+
+h2{
+	color : green ;
+	font-size : 175% ;
+}
+
+p{
+	color : rgb(255, 0, 43) ;
+	font-size : 12px ;
+	margin-left : 30px ;
+}
+
+h3{
+	color : yellow ;
+	font-size : 130% ;
+}
